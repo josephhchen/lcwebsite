@@ -2,6 +2,7 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 import bell from '../assets/bell.png'
 import growth from '../assets/profit-growth.png'
 import trophy from '../assets/trophy (1).png'
+
 export const navLinks = [
   {
     id: "home",
