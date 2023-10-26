@@ -112,8 +112,8 @@ export const footerLinks = [
       //   link: "https://www.hoobank.com/explore/",
       // },
       {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "Terms of Service",
+        link: "https://www.liftcard.app/terms-of-service/",
       },
     ],
   },
